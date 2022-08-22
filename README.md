@@ -2,7 +2,10 @@
 August 22, 2022
 
 # Welche Berechtigungen werden benötigt und wie werden sie verwendet ?
-Es werden keine Berechtigungen benötigt. Alle Berechnungen in der App "Papermaker Stapler" werden lokal auf dem jeweiligen Gerät durchgeführt und gespeichert. Und können daher auch ohne Internetverbindung verwendet werden.
+Es werden die Berechtigungen für "Dateien und Medien" benötigt. Um ein Backup auf dem Mobilgerät zu erstellen.
+Dieses Backup muss beim wechsel zu einem neuen Gerät, vom alten Gerät auf das neue Gerät kopiert werden.
+Alle Berechnungen in der App "Running Target Shooting" werden lokal auf dem jeweiligen Gerät durchgeführt und gespeichert. 
+Und können daher auch ohne Internetverbindung verwendet werden.
 
 # Welche Informationen werden gesammelt und wie werden sie verwendet ?
 Es werden von uns keine Daten gespeichert oder an Dritte weitergegeben.
