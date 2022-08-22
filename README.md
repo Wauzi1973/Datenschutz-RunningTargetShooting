@@ -2,10 +2,11 @@
 August 22, 2022
 
 # Welche Berechtigungen werden benötigt und wie werden sie verwendet ?
-Es werden die Berechtigungen für "Dateien und Medien" benötigt. Um ein Backup auf dem Mobilgerät zu erstellen.
-Dieses Backup muss beim wechsel zu einem neuen Gerät, vom alten Gerät auf das neue Gerät kopiert werden. Wo es dann importiert werden kann.
-Alle Berechnungen in der App "Running Target Shooting" werden lokal auf dem jeweiligen Gerät durchgeführt und gespeichert. 
-Und können daher auch ohne Internetverbindung verwendet werden.
+Ein Backup aller Ergebnisse kann auf dem Mobilgerät erstellt werden.
+Bei einem Wechsel des Mobilgerätes muss der Ordner wo das Backup gespeichert ist,
+vom alten Mobilgerät auf das neue kopiert werden. Das Backup kann dann auf dem neuen Gerät importiert werden.
+Zu diesem Zweck muss die Berechtigung \"Dateien und Medien\" zugelassen sein.
+
 
 # Welche Informationen werden gesammelt und wie werden sie verwendet ?
 Es werden von uns keine Daten gespeichert oder an Dritte weitergegeben.
