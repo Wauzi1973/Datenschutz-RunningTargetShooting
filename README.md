@@ -5,7 +5,7 @@ August 22, 2022
 Ein Backup aller Ergebnisse kann auf dem Mobilgerät erstellt werden.
 Bei einem Wechsel des Mobilgerätes muss der Ordner wo das Backup gespeichert ist,
 vom alten Mobilgerät auf das neue kopiert werden. Das Backup kann dann auf dem neuen Gerät importiert werden.
-Zu diesem Zweck muss die Berechtigung \"Dateien und Medien\" zugelassen sein.
+Zu diesem Zweck müssen keine Berechtigungen zugelassen sein.
 
 
 # Welche Informationen werden gesammelt und wie werden sie verwendet ?
@@ -19,7 +19,7 @@ Ich kann unsere Datenschutzbestimmungen von Zeit zu Zeit aktualisieren. Es wird 
 # Kontakt zu uns
 Sollten Sie irgendwelche Fragen zu unserem Datenschutz haben, können Sie via E-Mail Kontakt mit uns aufnehmen unter: renebergsch@gmail.com
 
-Stand: 22.08.2022
+Stand: 17.09.2022
 
 
 Mit der Installation und Nutzung der App erklären Sie sich ebenfalls mit den Datenschutzbestimmungen von Google Inc einverstanden. Bitte lesen Sie hierzu die Datenschutzerklärung von Google Inc: https://policies.google.com/privacy
